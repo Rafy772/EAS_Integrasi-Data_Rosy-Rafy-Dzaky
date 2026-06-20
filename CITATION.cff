@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+title: "Rafy772/EAS_Integrasi-Data_Rosy-Rafy-Dzaky: Clinical Data Warehouse Literature Dataset and LDA Topic Modeling Results"
+version: 1.0.0
+date-released: 2026-06-16
+doi: 10.5281/zenodo.20768149
+repository-code: "https://github.com/Rafy772/EAS_Integrasi-Data_Rosy-Rafy-Dzaky"
+authors:
+  - given-names: "Moh. Rosy Haqqy"
+    family-names: "Aminy"
+    email: "6026251023@student.its.ac.id"
+    affiliation: "Department of Information Systems, Institut Teknologi Sepuluh Nopember"
+  - given-names: "Moch Rafy Adhipramana"
+    family-names: "Effendy"
+    email: "6026242012@student.its.ac.id"
+    affiliation: "Department of Information Systems, Institut Teknologi Sepuluh Nopember"
+  - given-names: "Muh Dzaky Fazary"
+    family-names: "Thalib"
+    email: "6026251003@student.its.ac.id"
+    affiliation: "Department of Information Systems, Institut Teknologi Sepuluh Nopember"
+  - given-names: "Nur Aini"
+    family-names: "Rakhmawati"
+    email: "nur.aini@is.its.ac.id"
+    affiliation: "Department of Information Systems, Institut Teknologi Sepuluh Nopember"
