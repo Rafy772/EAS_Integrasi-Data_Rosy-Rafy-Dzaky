@@ -1,0 +1,107 @@
+{
+  "n_docs": 136,
+  "vocab_size": 1671,
+  "k": 4,
+  "seed": 42,
+  "n_jobs": 12,
+  "perplexity": 927.9124599650659,
+  "c_v": 0.41122106326716323,
+  "n_iter": 50,
+  "convergence_last5_rel_change": 0.001101071453737426,
+  "friedman": {
+    "perplexity": {
+      "chi2": 42.34285714285713,
+      "p": 5.02049174493882e-08
+    },
+    "c_v": {
+      "chi2": 7.5428571428571445,
+      "p": 0.18329451960375906
+    }
+  },
+  "topics": {
+    "Topic 1": [
+      "infant",
+      "patient",
+      "age",
+      "cohort",
+      "care",
+      "outcome",
+      "exposure",
+      "hospital",
+      "congenital",
+      "gestational"
+    ],
+    "Topic 2": [
+      "image",
+      "patient",
+      "supraorbital",
+      "mri",
+      "artefact",
+      "foramen",
+      "dicom",
+      "motion",
+      "pain",
+      "cdws"
+    ],
+    "Topic 3": [
+      "patient",
+      "hospital",
+      "health",
+      "framework",
+      "implementation",
+      "medical",
+      "cancer",
+      "model",
+      "care",
+      "cdw"
+    ],
+    "Topic 4": [
+      "patient",
+      "treatment",
+      "health",
+      "outcome",
+      "risk",
+      "model",
+      "opioid",
+      "diagnosis",
+      "difference",
+      "factor"
+    ]
+  },
+  "dominant_counts": {
+    "Topic 1": 30,
+    "Topic 2": 12,
+    "Topic 3": 69,
+    "Topic 4": 25
+  },
+  "representative_docs": [
+    {
+      "topic": 1,
+      "title": "Genetic disorders and their association with morbidity and mortality in early preterm small for gestational age infants",
+      "source": "American Journal of Obstetrics and Gynecology",
+      "year": 2025,
+      "p": 0.997
+    },
+    {
+      "topic": 2,
+      "title": "Leveraging noise and contrast simulation for the automatic quality control of routine clinical T1-weighted brain MRI",
+      "source": "Progress in Biomedical Optics and Imaging - Proceedings of SPIE",
+      "year": 2024,
+      "p": 0.993
+    },
+    {
+      "topic": 3,
+      "title": "A Sentence Classification\u2013Based Medical Status Extraction Pipeline for Electronic Health Records: Institutional Case Study",
+      "source": "JMIR Medical Informatics",
+      "year": 2026,
+      "p": 0.996
+    },
+    {
+      "topic": 4,
+      "title": "Patient outcomes following buprenorphine treatment for opioid use disorder: A retrospective analysis of the influence of patient- and prescriber-level characteristics in Massachusetts, USA",
+      "source": "Addiction",
+      "year": 2025,
+      "p": 0.996
+    }
+  ]
+}
